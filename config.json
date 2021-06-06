@@ -1,0 +1,26 @@
+{
+    "mode_game": "ai",
+    "token": "1bUCHoNmhqQQw8U8",
+    "depth": 1,
+    "openning_book_path": {
+        "opening_file_name": "Perfect2021.bin",
+        "opening_file_path": ""
+    },
+    "game": {
+        "num_games": 5
+    },
+    "train":{
+        "training_file_name": "Training_Samples.txt",
+        "training_file_path": "",
+        "training_num_lines": 3, 
+        "num_trainings": 10,
+        "training_iterations": 5
+    },
+
+    "weights":{
+        "weights_file_name": "evaluation_weights.csv",
+        "weights_file_path": ""
+    }
+
+
+}

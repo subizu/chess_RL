@@ -1,0 +1,18 @@
+[
+
+Board: {
+    Best_Leaf ,
+    Features_value: {
+        [
+        material
+        development
+        mobility
+        control
+        tension
+        safety
+        ]
+    }
+
+}
+
+]
